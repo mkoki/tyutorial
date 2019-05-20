@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'bcrypt',         '3.1.12'
+gem 'rails-controller-testing'
+gem 'bootstrap-sass', '3.3.7'
 gem 'bootsnap', require: false
 gem 'rails',        '5.2'
 gem 'puma',         '3.9.1'
